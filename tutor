@@ -1,0 +1,27 @@
+buat record videonya cari di tiktok live
+trus buka livenya di pc trus ctrl + u
+lalu ctrl + f
+ketik room_id
+nah nanti ketemu id roomnya bentuknya angka
+lalu paste formatnya begini
+py main.py -room_id KODEID -ffmpeg --auto-convert
+
+di bagian KODEID ganti dengan ID yg mau di record
+abis itu paste di Command Prompt
+usahakan video 30 menit minimal record
+klo sudah mau kelar record tinggal tekan q di Command Prompt
+otomatis berenti sendiri
+
+setelahnya lokasi video yg sudah di record ada di C:\Users\Administrator\tiktok
+
+----------------------------------------------------------------------------------
+
+untuk live streamnya
+
+untuk ambil key di web sini https://live.shopee.co.id/pc/setup
+lalu ke aplikasi
+isi format ini
+bitrate isi 1900
+fps isi 20
+judul video sesuaikan dengan judul disini
+masukan key dan lokasi video berada di C:\Users\Administrator\tiktok
